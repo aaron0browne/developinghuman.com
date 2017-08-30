@@ -1,0 +1,83 @@
+.background.background-enter {
+    width: 50% !important;
+    opacity: 1 !important;
+}
+
+.background.background-enter.background-enter-active {
+    width: 100% !important;
+    opacity: .1 !important;
+    transition: all 1000ms ease;
+}
+
+.sidebar.background-leave {
+    opacity: 0 !important;
+    z-index: -1 !important;
+}
+
+.sidebar.background-leave.background-leave-active {
+    z-index: -3 !important;
+    transition: z-index 100ms;
+}
+
+.sidebar.background-enter {
+    width: 100% !important;
+    opacity: .1 !important;
+}
+
+.sidebar.background-enter.background-enter-active {
+    width: 50% !important;
+    opacity: 1 !important;
+    transition: all 1000ms ease;
+}
+
+.background.background-leave {
+    opacity: 0 !important;
+    z-index: -1 !important;
+}
+
+.background.background-leave.background-leave-active {
+    z-index: -3 !important;
+    transition: z-index 100ms;
+}
+
+.full.header-enter {
+    width: 50% !important;
+    margin-left: 50% !important;
+}
+
+.full.header-enter.header-enter-active {
+    width: 100% !important;
+    margin-left: 0 !important;
+    transition: all 1000ms ease;
+}
+
+.right.header-leave {
+    opacity: 0 !important;
+    z-index: -1 !important;
+}
+
+.right.header-leave.header-leave-active {
+    z-index: -3 !important;
+    transition: z-index 100ms;
+}
+
+.right.header-enter {
+    width: 100% !important;
+    margin-left: 0 !important;
+}
+
+.right.header-enter.header-enter-active {
+    width: 50% !important;
+    margin-left: 50% !important;
+    transition: all 1000ms ease;
+}
+
+.full.header-leave {
+    opacity: 0 !important;
+    z-index: -1 !important;
+}
+
+.full.header-leave.header-leave-active {
+    z-index: -3 !important;
+    transition: z-index 100ms;
+}

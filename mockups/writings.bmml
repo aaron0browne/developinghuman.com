@@ -1,0 +1,133 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="1260" measuredH="767" mockupW="1260" mockupH="767">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="914" y="0" w="346" h="-1" measuredW="341" measuredH="45" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>right</align>
+        <size>40</size>
+        <text>Developing%20Human</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="155" h="-1" measuredW="153" measuredH="31" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>Aaron%20Browne</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::LinkBar" x="1042" y="48" w="-1" h="-1" measuredW="210" measuredH="21" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <size>16</size>
+        <text>Writings%2C%20Projects%2C%20Contact</text>
+        <underline>false</underline>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Title" x="341" y="119" w="-1" h="-1" measuredW="232" measuredH="33" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>32</size>
+        <text>Blog%20Post%201%20Title</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Paragraph" x="360" y="181" w="539" h="80" measuredW="200" measuredH="80" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>First%20paragraph%20of%20blog%20post%201.</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Title" x="341" y="320" w="-1" h="-1" measuredW="232" measuredH="33" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>32</size>
+        <text>Blog%20Post%202%20Title</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Paragraph" x="360" y="382" w="539" h="80" measuredW="200" measuredH="80" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>First%20paragraph%20of%20blog%20post%202.</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Title" x="341" y="519" w="-1" h="-1" measuredW="232" measuredH="33" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>32</size>
+        <text>Blog%20Post%203%20Title</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Paragraph" x="360" y="581" w="539" h="80" measuredW="200" measuredH="80" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>First%20paragraph%20of%20blog%20post%203.</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Image" x="159" y="119" w="126" h="122" measuredW="77" measuredH="79" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>blog%20post%201%20thumb</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Image" x="159" y="320" w="126" h="122" measuredW="77" measuredH="79" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>blog%20post%202%20thumb</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Image" x="159" y="519" w="126" h="122" measuredW="77" measuredH="79" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>blog%20post%203%20thumb</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::StickyNote" x="10" y="48" w="145" h="85" measuredW="109" measuredH="123" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Name%20slides%20to%20left%20if%20coming%20from%20home%2C%20title%20and%20nav%20links%20stay%20where%20they%20are.</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Button" x="599" y="740" w="69" h="27" measuredW="48" measuredH="24" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Next</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Button" x="487" y="740" w="-1" h="-1" measuredW="72" measuredH="24" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Previous</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::StickyNote" x="245" y="696" w="227" h="71" measuredW="109" measuredH="123" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Five%20blog%20posts%20per%20page.%20Previous%20button%20hidden%20until%20pg%20%3E%201.</text>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::SearchBox" x="1004" y="119" w="217" h="-1" measuredW="120" measuredH="25" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Search</text>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="1002" y="180" w="234" h="140" measuredW="53" measuredH="100" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%5B%20%5D%20tag%20a%0A%5B%20%5D%20tag%20b%0A%5B%20%5D%20tag%20c%0A%5B%20%5D%20tag%20d%0A%5B%20%5D%20tag%20e</text>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::StickyNote" x="820" y="162" w="162" h="270" measuredW="109" measuredH="123" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Search%20bar%20has%20auto-completion%20on%20an%20index%20of%20%3E3%20letter%20words%20in%20titles%20and%20posts.%20Tags%20are%20ordered%20by%20prevelance.%20All%20filters%20can%20be%20combined%20in%20AND%20fashion.%20Line%20graph%20of%20post%20frequency%20over%20time%20%28divided%20into%20reasonable%20%2810%3F%29%20buckets%2C%20with%20sliders%20for%20date%20filtering.</text>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::LineChart" x="1000" y="320" w="239" h="97" measuredW="187" measuredH="175" zOrder="19" locked="false" isInGroup="-1"/>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::LinkBar" x="341" y="261" w="-1" h="-1" measuredW="77" measuredH="18" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <text>tag%20a%2C%20tag%20b</text>
+        <underline>false</underline>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Label" x="360" y="460" w="-1" h="-1" measuredW="29" measuredH="20" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>tag%20c</text>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::LinkBar" x="360" y="661" w="-1" h="-1" measuredW="125" measuredH="18" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <text>tag%20a%2C%20tag%20d%2C%20tag%20e</text>
+        <underline>false</underline>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::StickyNote" x="559" y="442" w="140" h="83" measuredW="109" measuredH="123" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Clicking%20a%20tag%20name%20triggers%20that%20filter.</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
